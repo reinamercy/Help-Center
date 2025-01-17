@@ -1,0 +1,7 @@
+<script>start("/Users/reinamercy/full_stack_admin/backend/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("routes","routes",1,128,"128 B",1737126546,"17/01/2025, 20:39:06");</script>
+<script>addRow("db.js","db.js",0,272,"272 B",1737126546,"17/01/2025, 20:39:06");</script>
+<script>addRow("db.sql","db.sql",0,410,"410 B",1737126546,"17/01/2025, 20:39:06");</script>
+<script>addRow("index.js","index.js",0,1013,"1013 B",1737126546,"17/01/2025, 20:39:06");</script>
+<script>addRow("package.json","package.json",0,413,"413 B",1737126546,"17/01/2025, 20:39:06");</script>
